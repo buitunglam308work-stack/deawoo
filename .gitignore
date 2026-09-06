@@ -1,0 +1,5 @@
+.vercel
+.env*
+
+# Hop dong va bang gia noi bo - khong day len repo public
+hop-dong/
